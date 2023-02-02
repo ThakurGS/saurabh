@@ -14,12 +14,12 @@
       <![CDATA[hello java]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-02-02T16:35:27 IST" name="Suite" finished-at="2023-02-02T16:35:27 IST" duration-ms="55">
+  <suite started-at="2023-02-02T17:12:05 IST" name="Suite" finished-at="2023-02-02T17:12:05 IST" duration-ms="48">
     <groups>
     </groups>
-    <test started-at="2023-02-02T16:35:27 IST" name="Test" finished-at="2023-02-02T16:35:27 IST" duration-ms="55">
+    <test started-at="2023-02-02T17:12:05 IST" name="Test" finished-at="2023-02-02T17:12:05 IST" duration-ms="48">
       <class name="script.TestCase2">
-        <test-method signature="demo()[pri:0, instance:script.TestCase2@9353778]" started-at="2023-02-02T16:35:27 IST" name="demo" finished-at="2023-02-02T16:35:27 IST" duration-ms="1" status="PASS">
+        <test-method signature="demo()[pri:0, instance:script.TestCase2@9353778]" started-at="2023-02-02T17:12:05 IST" name="demo" finished-at="2023-02-02T17:12:05 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello python]]>
@@ -28,7 +28,7 @@
         </test-method> <!-- demo -->
       </class> <!-- script.TestCase2 -->
       <class name="script.TestCase1">
-        <test-method signature="demo()[pri:0, instance:script.TestCase1@6a28ffa4]" started-at="2023-02-02T16:35:27 IST" name="demo" finished-at="2023-02-02T16:35:27 IST" duration-ms="2" status="PASS">
+        <test-method signature="demo()[pri:0, instance:script.TestCase1@6a28ffa4]" started-at="2023-02-02T17:12:05 IST" name="demo" finished-at="2023-02-02T17:12:05 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello java]]>
@@ -37,7 +37,7 @@
         </test-method> <!-- demo -->
       </class> <!-- script.TestCase1 -->
       <class name="script.TestCase4">
-        <test-method signature="demo()[pri:0, instance:script.TestCase4@67a20f67]" started-at="2023-02-02T16:35:27 IST" name="demo" finished-at="2023-02-02T16:35:27 IST" duration-ms="12" status="PASS">
+        <test-method signature="demo()[pri:0, instance:script.TestCase4@67a20f67]" started-at="2023-02-02T17:12:05 IST" name="demo" finished-at="2023-02-02T17:12:05 IST" duration-ms="9" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello python for selenium]]>
@@ -46,7 +46,7 @@
         </test-method> <!-- demo -->
       </class> <!-- script.TestCase4 -->
       <class name="script.TestCase3">
-        <test-method signature="demo()[pri:0, instance:script.TestCase3@63355449]" started-at="2023-02-02T16:35:27 IST" name="demo" finished-at="2023-02-02T16:35:27 IST" duration-ms="2" status="PASS">
+        <test-method signature="demo()[pri:0, instance:script.TestCase3@63355449]" started-at="2023-02-02T17:12:05 IST" name="demo" finished-at="2023-02-02T17:12:05 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello java for selenium]]>
